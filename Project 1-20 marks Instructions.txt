@@ -1,0 +1,7 @@
+Project 1-20 marks Instructions: 
+Do NOT forget to comment your code in a proper way to ease understanding of your solution.
+Use constructors, classes methods, objects and inheritance. Inheritance and Composition Menu with Loop and Switch.
+
+Provide a way to assign a Faculty Member to teach an existing Course and for a faculty member to find a class in the list and drop it.
+
+Do not create a new Course when a Student adds or when a faculty member is assigned to teach; let the user choose a Course from the list.
